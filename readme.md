@@ -1,8 +1,8 @@
 # Kakashi
-Kakashi is a backend service built with (Ktor)[https://ktor.io] that serves as the foundation for Endured Network.
+Kakashi is a backend service built with [Ktor](https://ktor.io) that serves as the foundation for Endured Network.
 
 ### Features
- • Consolidates persistent data using (MongoDB)[https://mongodb.com] and the (KMongo)[https://litote.org/kmongo/] driver
+ • Consolidates persistent data using [MongoDB](https://mongodb.com) and the [KMongo](https://litote.org/kmongo) driver
  • Handles communication efficiently between clients and servers
  • Allows developers to focus on creating their game without having to worry about writing their own backend code to integrate with the Endured Network system
  
@@ -18,7 +18,7 @@ Kakashi is a backend service built with (Ktor)[https://ktor.io] that serves as t
  5. Start the Kakashi service: `./gradlew run`
 
 ### Contribution
-We welcome contributions to Kakashi. To contribute, please see the (Contributation Guidelines)[https://github.com/EnduredNetwork/kakashi/blob/main/contributing.md] for more information.
+We welcome contributions to Kakashi. To contribute, please see the [Contributation Guidelines](https://github.com/EnduredNetwork/kakashi/blob/main/contributing.md) for more information.
 
 ### License
-Kakashi is licensed under the MIT License. See (LICENSE)[https://github.com/EnduredNetwork/kakashi/blob/main/license.md] for more information.
+Kakashi is licensed under the MIT License. See [LICENSE](https://github.com/EnduredNetwork/kakashi/blob/main/license.md) for more information.
