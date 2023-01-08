@@ -3,11 +3,14 @@ Kakashi is a backend service built with [Ktor](https://ktor.io) that serves as t
 
 ### Features
  • Consolidates persistent data using [MongoDB](https://mongodb.com) and the [KMongo](https://litote.org/kmongo) driver
+ 
  • Handles communication efficiently between clients and servers
+ 
  • Allows developers to focus on creating their game without having to worry about writing their own backend code to integrate with the Endured Network system
  
 ### Requirements
  • Java 17 or higher
+ 
  • MongoDB 4.2 or higher
 
 ### Installation
